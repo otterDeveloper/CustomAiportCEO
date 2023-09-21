@@ -1,3 +1,9 @@
-This file is for displaying info, news and changelogs to your users.
-The text in this file is shown everytime a user installs the mod and starts the game,
-and everytime the mod is automatically updated by UMF. (If auto update is used.)
+Custom Airport CEO
+
+1.0: Allow moving the boarding desks without having to close the stand.
+
+In order to move the Boarding desk you need:
+* More than one Boarding Desk connected to the Stand.
+* At least one of the following:
+  * The Stand must be empty without any active flights.
+  * Boarding has already closed.
