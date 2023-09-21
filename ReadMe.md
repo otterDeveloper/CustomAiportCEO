@@ -1,13 +1,17 @@
+# Custom Airport CEO Mod
 
-Open Source Instructions for Mod Creator:
----
- 1. Add GamePaths.xml to .gitignore before your first commit, and manually upload GamePaths.xml with the defaults.
- 2. Instruct your users to modify GamePaths.xml before they open the project.
+This is a mod for moving the Boarding Desk while they are open in Airport CEO.
+No need to close the stand and cancel all flights to move the Boarding Desk anymore.
 
+*Download the mod from Releases*
 
----
-Open Source Instructions for Users:
----
+## Installing the Mod
+1. Make sure you have installed UMF (uMod Framework) into the game. Download it from [here](https://umodframework.com/download).
+2. Download the mod from the Releases page.
+3. Double click the downloaded file to install it into the game.
+
+## Editing the mod
+
  1. Install Visual Studio 2017 or higher.
  2. Install Airport CEO.
  3. Install UMF (uMod Framework) v0.53.7 or higher into the game.
