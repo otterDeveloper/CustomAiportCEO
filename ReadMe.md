@@ -5,6 +5,8 @@ No need to close the stand and cancel all flights to move the Boarding Desk anym
 
 *Download the mod from Releases*
 
+![Demo gif](./media/ACEO%20Mod%20Promo%20Even%20Shorter_.gif)
+
 ## Installing the Mod
 1. Make sure you have installed UMF (uMod Framework) into the game. Download it from [here](https://umodframework.com/download).
 2. Download the mod from the Releases page.
